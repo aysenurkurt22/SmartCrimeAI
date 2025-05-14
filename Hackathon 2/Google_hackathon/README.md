@@ -1,0 +1,4 @@
+# Google_hackathon
+Project we made on Data Analytics during a 48 hour hackathon conducted by Google Developers Club in VIT Chennai
+
+Developed a data-driven solution to predict outcomes through the implementation of a diverse set of algorithms, along with data visualization techniques including correlation matrix, heat maps, and various plots. Conducted comprehensive data preprocessing, incorporating Multiple Correspondence Analysis (MCA), Multiple Factor Analysis (MFA) models and Multiple Imputations by Chained Equations (MICE) algorithm, in addition to thorough data cleaning to guarantee high-quality inputs. Evaluated the performance of multiple machine learning models, including Random Forest, K-Nearest Neighbors (KNN), Naive Bayes, Decision Tree, Ada Boost, and Gradient Boosting Classifier, by utilizing statistical analysis techniques and comparing their results.
