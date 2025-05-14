@@ -18,19 +18,4 @@ SmartCrimeAI, Chicago Polis Departmanı'nın son 7 günlük suç verilerini kull
 - HTML + Jinja2 (şablonlama)
 - JSON, CSV dosya yönetimi
 
-## 📁 Proje Yapısı
-
-Hackathon/
-├── app.py                  # Flask sunucusunu başlatan ana dosya
-├── smartcrimeai_pipeline.py  # Rota risk analizi ve harita işlemlerini yürüten ana modül
-├── model.pkl              # Eğitilmiş makine öğrenmesi modeli (risk tahmini için)
-├── Crimes_Last_7_Days.csv # Chicago'nun son 7 güne ait suç verileri
-├── get_last7days.py       # Dış veri kaynağından son suç kayıtlarını çeken yardımcı betik
-├── templates/             # HTML tabanlı kullanıcı arayüz şablonları (Jinja2 ile çalışır)
-├── static/                # CSS, JavaScript ve görsel dosyaları
-├── arrest_trend.png       # Tutuklama eğilimlerini gösteren grafik
-├── crime_types.png        # Suç türü dağılım grafiği
-├── hourly_arrest_rate.png # Saatlik suç yoğunluğu grafiği
-
-
 
